@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+    background-color:#AAC8A7 ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#changer div,#changer h2{
+  display: flex;
+  justify-content: center;
+}
+
+#changer{
+    width: 300px;
+    height: 350px;
+    background-color:#FDFFAE;
+    margin:200px auto;
+    padding: 20px;
+
+}
+h2{
+   letter-spacing: 2px;
+   color:black;
+}
+#input{
+    padding:.5em;
+    width: 200px;
+    margin-top: 30px;
+    border-radius: 2px;
+    letter-spacing:10px;
+
+}
+button{
+    margin-top: 30px;
+    border-radius: 2px;
+    padding:.5em;
+    background-color:#C4D7B2;
+}
+#result{
+    color:brown;
+    margin-top:20px;
+    font-size:32px;
+    
+
+}
